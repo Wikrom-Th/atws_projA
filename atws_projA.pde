@@ -91,7 +91,7 @@ void draw() {
 
     pushStyle();
     noStroke();
-    fill(56, 204, 217);
+    fill(179, 145, 23);
     if(channel == 0 || channel == 2) 
     {
       if(i==11) 
@@ -126,7 +126,7 @@ void draw() {
     translate(pos2[i].x, pos2[i].y, pos2[i].z);
     pushStyle();
     noStroke();
-    fill(217, 142, 56);
+    fill(179, 145, 23);
     sphere(4);
     popStyle();
     pop();
