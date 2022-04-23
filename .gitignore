@@ -1,6 +1,9 @@
-/.vscode
-/frames
-/out
-/record1.mp4
-/record1_Trim.mp4
-/try_rec.mp4
+#vscode settings
+.vscode
+
+#compiled Java
+out
+
+#output frames and mp4 files
+frames
+*.mp4
